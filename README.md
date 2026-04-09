@@ -1,0 +1,1 @@
+Programa em Python que realiza uma pesquisa com 50 entrevistados, coletando nome, idade e opinião sobre o atendimento (Excelente, Bom ou Ruim). Utiliza for para repetição e if para contabilizar as respostas, exibindo ao final a quantidade de avaliações “Excelente” e “Ruim”.
